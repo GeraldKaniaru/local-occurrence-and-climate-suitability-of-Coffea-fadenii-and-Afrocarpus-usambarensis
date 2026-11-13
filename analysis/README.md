@@ -1,6 +1,6 @@
 # Taita Hills forest and climatic suitability analyses
 
-This folder supports the statistical analyses in Section 2.5 of the 12 November 2026 Afrocarpus–Coffea manuscript. The analyses compare woody vegetation and focal-species records in Ngangao and Mbololo, model climatic suitability across Kenya, and estimate its overlap with mapped protected areas.
+This folder supports the statistical analyses in 'Occurrence of Afrocarpus usambarensis and Coffea fadenii in the Taita Hills and predicted climatic suitability across Kenya to guide restoration and surveys' manuscript. The analyses compare woody vegetation and focal-species records in Ngangao and Mbololo, model climatic suitability across Kenya, and estimate its overlap with mapped protected areas.
 
 ## Run order
 
