@@ -1,0 +1,25 @@
+"Species","Scenario","Repeat","Thinning (km)","Training cells","Field cells","GBIF cells"
+"Coffea fadenii","narrow baseline",1,0,12,5,7
+"Coffea fadenii","broad baseline",1,0,12,5,7
+"Afrocarpus usambarensis","narrow baseline",1,0,24,1,23
+"Afrocarpus usambarensis","narrow moderate",1,8,19,1,18
+"Afrocarpus usambarensis","narrow moderate",2,8,19,1,18
+"Afrocarpus usambarensis","narrow moderate",3,8,19,1,18
+"Afrocarpus usambarensis","narrow moderate",4,8,19,1,18
+"Afrocarpus usambarensis","narrow moderate",5,8,19,1,18
+"Afrocarpus usambarensis","narrow stronger",1,16,19,1,18
+"Afrocarpus usambarensis","narrow stronger",2,16,19,1,18
+"Afrocarpus usambarensis","narrow stronger",3,16,19,1,18
+"Afrocarpus usambarensis","narrow stronger",4,16,19,1,18
+"Afrocarpus usambarensis","narrow stronger",5,16,19,1,18
+"Afrocarpus usambarensis","broad baseline",1,0,24,1,23
+"Afrocarpus usambarensis","broad moderate",1,8,19,1,18
+"Afrocarpus usambarensis","broad moderate",2,8,19,1,18
+"Afrocarpus usambarensis","broad moderate",3,8,19,1,18
+"Afrocarpus usambarensis","broad moderate",4,8,19,1,18
+"Afrocarpus usambarensis","broad moderate",5,8,19,1,18
+"Afrocarpus usambarensis","broad stronger",1,16,19,1,18
+"Afrocarpus usambarensis","broad stronger",2,16,19,1,18
+"Afrocarpus usambarensis","broad stronger",3,16,19,1,18
+"Afrocarpus usambarensis","broad stronger",4,16,19,1,18
+"Afrocarpus usambarensis","broad stronger",5,16,19,1,18

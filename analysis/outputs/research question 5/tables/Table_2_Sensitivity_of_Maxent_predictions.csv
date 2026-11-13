@@ -1,0 +1,5 @@
+"Species","Scenario contrast","Jaccard","Spearman ρ","Suitable area (km²)"
+"C. fadenii","Narrow baseline to broad baseline","0.45","0.6983","106,678 to 96,386"
+"A. usambarensis","Narrow baseline to broad baseline","0.96","0.9918","156,283 to 158,269"
+"A. usambarensis","Narrow baseline to narrow moderate","0.96","0.9967","156,283 to 162,580"
+"A. usambarensis","Broad baseline to broad moderate","0.85","0.9996","158,269 to 187,267"
