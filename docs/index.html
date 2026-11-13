@@ -1,0 +1,50 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<meta name="description" content="Forest inventories and Kenya-wide climatic suitability for Coffea fadenii and Afrocarpus usambarensis.">
+<title>From the Taita Hills to Kenya-wide climate maps</title>
+<link rel="stylesheet" href="style.css">
+</head>
+<body>
+<header class="wrap nav">
+<a class="brand" href="#">Taita Hills Research</a>
+<nav aria-label="Main navigation"><a href="#workflow">Methods</a><a href="#results">Results</a><a href="https://github.com/GeraldKaniaru/local-occurrence-and-climate-suitability-of-Coffea-fadenii-and-Afrocarpus-usambarensis/tree/main/analysis">R workflow ↗</a></nav>
+</header>
+<main>
+<section class="hero wrap">
+<div>
+<p class="eyebrow">Taita Hills · Kenya</p>
+<h1>From forest records to climate maps</h1>
+<p class="intro">Local occurrence and climatic suitability of <i>Coffea fadenii</i> and <i>Afrocarpus usambarensis</i>.</p>
+<p>Forest inventories from Ngangao and Mbololo describe local vegetation and focal-species occurrence. Kenya-wide Maxent models identify areas to consider for restoration assessment and further surveys.</p>
+<a class="button" href="#results">Explore the findings ↓</a>
+</div>
+<figure>
+<img src="https://raw.githubusercontent.com/GeraldKaniaru/local-occurrence-and-climate-suitability-of-Coffea-fadenii-and-Afrocarpus-usambarensis/main/analysis/outputs/focal_species/figures/Figure_S1_Focal_species_in_the_Taita_Hills.png" alt="Field photographs of Coffea fadenii foliage and fruit and Afrocarpus usambarensis foliage, bark and tree form">
+<figcaption>Focal species in the Taita Hills. Photos by Gerald Kaniaru.</figcaption>
+</figure>
+</section>
+<section class="band" id="workflow"><div class="wrap">
+<p class="eyebrow">Methods</p>
+<h2>Two scales of analysis</h2>
+<div class="cards">
+<article><h3>Forest inventories</h3><p>Across 23 survey records, we compared woody assemblages, vegetation structure and taxon dominance, focal-stem abundance and occurrence, and the co-occurrence of juveniles and listed larger stems.</p><p class="detail">Ngangao · 9 records<br>Mbololo · 14 records</p></article>
+<article><h3>Climatic suitability</h3><p>Maxent models compared narrow and broad calibration domains and tested occurrence thinning. The shortlist retained cells classified as suitable in every retained scenario and within all predictors’ training ranges in every fit.</p><p class="detail">Primary threshold · 10th percentile of training-presence scores</p></article>
+</div>
+</div></section>
+<section class="wrap results" id="results">
+<p class="eyebrow">Results</p>
+<h2>Protected-area coverage of the climatic shortlist</h2>
+<p>Percentages use each species’ total shortlisted area in Kenya as the denominator.</p>
+<div class="cards stats">
+<article><h3><i>Coffea fadenii</i></h3><strong>16.5%</strong><p>6,609 of 39,934 km²</p></article>
+<article><h3><i>Afrocarpus usambarensis</i></h3><strong>15.1%</strong><p>22,395 of 148,698 km²</p></article>
+</div>
+<figure class="map"><img loading="lazy" src="https://raw.githubusercontent.com/GeraldKaniaru/local-occurrence-and-climate-suitability-of-Coffea-fadenii-and-Afrocarpus-usambarensis/main/analysis/outputs/research%20question%206/figures/Figure_8_Protected_area_overlap_with_the_climatic_suitability_shortlist.png" alt="Two maps of Kenya showing where the climatic suitability shortlist overlaps mapped protected areas for each focal species"><figcaption>Shortlisted areas within and outside mapped protected areas in Kenya.</figcaption></figure>
+</section>
+</main>
+<footer class="wrap"><span>Taita Hills Research</span><a href="https://github.com/GeraldKaniaru/local-occurrence-and-climate-suitability-of-Coffea-fadenii-and-Afrocarpus-usambarensis">Project repository ↗</a></footer>
+</body>
+</html>
