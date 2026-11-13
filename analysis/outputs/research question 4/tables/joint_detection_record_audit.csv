@@ -1,0 +1,47 @@
+"record_id","forest","workbook","sheet","species","included","reason","juvenile_count","larger_count","cooccurrence","joint_detection"
+"Ngangao_01","Ngangao","analysis/Datasets/field/Ngangao.Mapping.Data.Franklinia.xlsx","Plot.1","coffea fadenii",TRUE,"",0,0,"Neither stage listed",0
+"Ngangao_01","Ngangao","analysis/Datasets/field/Ngangao.Mapping.Data.Franklinia.xlsx","Plot.1","afrocarpus usambarensis",TRUE,"",0,0,"Neither stage listed",0
+"Ngangao_02","Ngangao","analysis/Datasets/field/Ngangao.Mapping.Data.Franklinia.xlsx","Plot.2","coffea fadenii",TRUE,"",0,0,"Neither stage listed",0
+"Ngangao_02","Ngangao","analysis/Datasets/field/Ngangao.Mapping.Data.Franklinia.xlsx","Plot.2","afrocarpus usambarensis",TRUE,"",0,0,"Neither stage listed",0
+"Ngangao_03","Ngangao","analysis/Datasets/field/Ngangao.Mapping.Data.Franklinia.xlsx","Plot.3","coffea fadenii",TRUE,"",0,0,"Neither stage listed",0
+"Ngangao_03","Ngangao","analysis/Datasets/field/Ngangao.Mapping.Data.Franklinia.xlsx","Plot.3","afrocarpus usambarensis",TRUE,"",0,0,"Neither stage listed",0
+"Ngangao_04","Ngangao","analysis/Datasets/field/Ngangao.Mapping.Data.Franklinia.xlsx","Plot.4","coffea fadenii",TRUE,"",0,0,"Neither stage listed",0
+"Ngangao_04","Ngangao","analysis/Datasets/field/Ngangao.Mapping.Data.Franklinia.xlsx","Plot.4","afrocarpus usambarensis",TRUE,"",0,0,"Neither stage listed",0
+"Ngangao_05","Ngangao","analysis/Datasets/field/Ngangao.Mapping.Data.Franklinia.xlsx","Plot.5","coffea fadenii",TRUE,"",12,0,"Juveniles only",0
+"Ngangao_05","Ngangao","analysis/Datasets/field/Ngangao.Mapping.Data.Franklinia.xlsx","Plot.5","afrocarpus usambarensis",TRUE,"",0,0,"Neither stage listed",0
+"Ngangao_06","Ngangao","analysis/Datasets/field/Ngangao.Mapping.Data.Franklinia.xlsx","Plot.6","coffea fadenii",TRUE,"",0,1,"Larger stems only",0
+"Ngangao_06","Ngangao","analysis/Datasets/field/Ngangao.Mapping.Data.Franklinia.xlsx","Plot.6","afrocarpus usambarensis",TRUE,"",4,0,"Juveniles only",0
+"Ngangao_07","Ngangao","analysis/Datasets/field/Ngangao.Mapping.Data.Franklinia.xlsx","Plot.7","coffea fadenii",TRUE,"",1,0,"Juveniles only",0
+"Ngangao_07","Ngangao","analysis/Datasets/field/Ngangao.Mapping.Data.Franklinia.xlsx","Plot.7","afrocarpus usambarensis",TRUE,"",0,0,"Neither stage listed",0
+"Ngangao_08","Ngangao","analysis/Datasets/field/Ngangao.Mapping.Data.Franklinia.xlsx","Plot.8","coffea fadenii",TRUE,"",19,1,"Both stages",1
+"Ngangao_08","Ngangao","analysis/Datasets/field/Ngangao.Mapping.Data.Franklinia.xlsx","Plot.8","afrocarpus usambarensis",TRUE,"",0,0,"Neither stage listed",0
+"Ngangao_09","Ngangao","analysis/Datasets/field/Ngangao.Mapping.Data.Franklinia.xlsx","Plot.9","coffea fadenii",TRUE,"",13,2,"Both stages",1
+"Ngangao_09","Ngangao","analysis/Datasets/field/Ngangao.Mapping.Data.Franklinia.xlsx","Plot.9","afrocarpus usambarensis",TRUE,"",0,0,"Neither stage listed",0
+"Mbololo_04","Mbololo","analysis/Datasets/field/Mbololo.Mapping.Data.Franklinia.xlsx","Plot.4","coffea fadenii",TRUE,"",17,2,"Both stages",1
+"Mbololo_04","Mbololo","analysis/Datasets/field/Mbololo.Mapping.Data.Franklinia.xlsx","Plot.4","afrocarpus usambarensis",TRUE,"",0,0,"Neither stage listed",0
+"Mbololo_07","Mbololo","analysis/Datasets/field/Mbololo.Mapping.Data.Franklinia.xlsx","Plot.7","coffea fadenii",TRUE,"",25,2,"Both stages",1
+"Mbololo_07","Mbololo","analysis/Datasets/field/Mbololo.Mapping.Data.Franklinia.xlsx","Plot.7","afrocarpus usambarensis",TRUE,"",0,0,"Neither stage listed",0
+"Mbololo_08","Mbololo","analysis/Datasets/field/Mbololo.Mapping.Data.Franklinia.xlsx","Plot.8","coffea fadenii",TRUE,"",5,2,"Both stages",1
+"Mbololo_08","Mbololo","analysis/Datasets/field/Mbololo.Mapping.Data.Franklinia.xlsx","Plot.8","afrocarpus usambarensis",TRUE,"",0,0,"Neither stage listed",0
+"Mbololo_09","Mbololo","analysis/Datasets/field/Mbololo.Mapping.Data.Franklinia.xlsx","Plot.9","coffea fadenii",TRUE,"",12,20,"Both stages",1
+"Mbololo_09","Mbololo","analysis/Datasets/field/Mbololo.Mapping.Data.Franklinia.xlsx","Plot.9","afrocarpus usambarensis",TRUE,"",0,0,"Neither stage listed",0
+"Mbololo_10","Mbololo","analysis/Datasets/field/Mbololo.Mapping.Data.Franklinia.xlsx","Plot.10","coffea fadenii",TRUE,"",8,7,"Both stages",1
+"Mbololo_10","Mbololo","analysis/Datasets/field/Mbololo.Mapping.Data.Franklinia.xlsx","Plot.10","afrocarpus usambarensis",TRUE,"",0,0,"Neither stage listed",0
+"Mbololo_11","Mbololo","analysis/Datasets/field/Mbololo.Mapping.Data.Franklinia.xlsx","Plot.11","coffea fadenii",TRUE,"",3,7,"Both stages",1
+"Mbololo_11","Mbololo","analysis/Datasets/field/Mbololo.Mapping.Data.Franklinia.xlsx","Plot.11","afrocarpus usambarensis",TRUE,"",0,0,"Neither stage listed",0
+"Mbololo_12","Mbololo","analysis/Datasets/field/Mbololo.Mapping.Data.Franklinia.xlsx","Plot.12","coffea fadenii",TRUE,"",11,3,"Both stages",1
+"Mbololo_12","Mbololo","analysis/Datasets/field/Mbololo.Mapping.Data.Franklinia.xlsx","Plot.12","afrocarpus usambarensis",TRUE,"",0,0,"Neither stage listed",0
+"Mbololo_13","Mbololo","analysis/Datasets/field/Mbololo.Mapping.Data.Franklinia.xlsx","Plot.13","coffea fadenii",TRUE,"",13,1,"Both stages",1
+"Mbololo_13","Mbololo","analysis/Datasets/field/Mbololo.Mapping.Data.Franklinia.xlsx","Plot.13","afrocarpus usambarensis",TRUE,"",0,0,"Neither stage listed",0
+"Mbololo_14","Mbololo","analysis/Datasets/field/Mbololo.Mapping.Data.Franklinia.xlsx","Plot.14","coffea fadenii",TRUE,"",11,1,"Both stages",1
+"Mbololo_14","Mbololo","analysis/Datasets/field/Mbololo.Mapping.Data.Franklinia.xlsx","Plot.14","afrocarpus usambarensis",TRUE,"",0,0,"Neither stage listed",0
+"Mbololo_15","Mbololo","analysis/Datasets/field/Mbololo.Mapping.Data.Franklinia.xlsx","Plot.15","coffea fadenii",TRUE,"",2,5,"Both stages",1
+"Mbololo_15","Mbololo","analysis/Datasets/field/Mbololo.Mapping.Data.Franklinia.xlsx","Plot.15","afrocarpus usambarensis",TRUE,"",0,0,"Neither stage listed",0
+"Mbololo_16","Mbololo","analysis/Datasets/field/Mbololo.Mapping.Data.Franklinia.xlsx","Plot.16","coffea fadenii",TRUE,"",82,0,"Juveniles only",0
+"Mbololo_16","Mbololo","analysis/Datasets/field/Mbololo.Mapping.Data.Franklinia.xlsx","Plot.16","afrocarpus usambarensis",TRUE,"",0,0,"Neither stage listed",0
+"Mbololo_17","Mbololo","analysis/Datasets/field/Mbololo.Mapping.Data.Franklinia.xlsx","Plot.17","coffea fadenii",TRUE,"",3,5,"Both stages",1
+"Mbololo_17","Mbololo","analysis/Datasets/field/Mbololo.Mapping.Data.Franklinia.xlsx","Plot.17","afrocarpus usambarensis",TRUE,"",0,0,"Neither stage listed",0
+"Mbololo_18","Mbololo","analysis/Datasets/field/Mbololo.Mapping.Data.Franklinia.xlsx","Plot.18","coffea fadenii",TRUE,"",0,2,"Larger stems only",0
+"Mbololo_18","Mbololo","analysis/Datasets/field/Mbololo.Mapping.Data.Franklinia.xlsx","Plot.18","afrocarpus usambarensis",TRUE,"",0,0,"Neither stage listed",0
+"Mbololo_19","Mbololo","analysis/Datasets/field/Mbololo.Mapping.Data.Franklinia.xlsx","Plot.19","coffea fadenii",TRUE,"",5,5,"Both stages",1
+"Mbololo_19","Mbololo","analysis/Datasets/field/Mbololo.Mapping.Data.Franklinia.xlsx","Plot.19","afrocarpus usambarensis",TRUE,"",0,0,"Neither stage listed",0
